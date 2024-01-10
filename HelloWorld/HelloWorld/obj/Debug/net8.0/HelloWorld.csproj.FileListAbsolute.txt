@@ -1,0 +1,14 @@
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+F:\My Documents\vbprojects\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
