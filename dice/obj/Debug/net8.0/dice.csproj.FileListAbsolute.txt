@@ -1,0 +1,14 @@
+Q:\ground\csharp\dice\bin\Debug\net8.0\dice.exe
+Q:\ground\csharp\dice\bin\Debug\net8.0\dice.deps.json
+Q:\ground\csharp\dice\bin\Debug\net8.0\dice.runtimeconfig.json
+Q:\ground\csharp\dice\bin\Debug\net8.0\dice.dll
+Q:\ground\csharp\dice\bin\Debug\net8.0\dice.pdb
+Q:\ground\csharp\dice\obj\Debug\net8.0\dice.GeneratedMSBuildEditorConfig.editorconfig
+Q:\ground\csharp\dice\obj\Debug\net8.0\dice.AssemblyInfoInputs.cache
+Q:\ground\csharp\dice\obj\Debug\net8.0\dice.AssemblyInfo.cs
+Q:\ground\csharp\dice\obj\Debug\net8.0\dice.csproj.CoreCompileInputs.cache
+Q:\ground\csharp\dice\obj\Debug\net8.0\dice.dll
+Q:\ground\csharp\dice\obj\Debug\net8.0\refint\dice.dll
+Q:\ground\csharp\dice\obj\Debug\net8.0\dice.pdb
+Q:\ground\csharp\dice\obj\Debug\net8.0\dice.genruntimeconfig.cache
+Q:\ground\csharp\dice\obj\Debug\net8.0\ref\dice.dll

@@ -1,0 +1,14 @@
+Q:\ground\csharp\overide\bin\Debug\net8.0\overide.exe
+Q:\ground\csharp\overide\bin\Debug\net8.0\overide.deps.json
+Q:\ground\csharp\overide\bin\Debug\net8.0\overide.runtimeconfig.json
+Q:\ground\csharp\overide\bin\Debug\net8.0\overide.dll
+Q:\ground\csharp\overide\bin\Debug\net8.0\overide.pdb
+Q:\ground\csharp\overide\obj\Debug\net8.0\overide.GeneratedMSBuildEditorConfig.editorconfig
+Q:\ground\csharp\overide\obj\Debug\net8.0\overide.AssemblyInfoInputs.cache
+Q:\ground\csharp\overide\obj\Debug\net8.0\overide.AssemblyInfo.cs
+Q:\ground\csharp\overide\obj\Debug\net8.0\overide.csproj.CoreCompileInputs.cache
+Q:\ground\csharp\overide\obj\Debug\net8.0\overide.dll
+Q:\ground\csharp\overide\obj\Debug\net8.0\refint\overide.dll
+Q:\ground\csharp\overide\obj\Debug\net8.0\overide.pdb
+Q:\ground\csharp\overide\obj\Debug\net8.0\overide.genruntimeconfig.cache
+Q:\ground\csharp\overide\obj\Debug\net8.0\ref\overide.dll
