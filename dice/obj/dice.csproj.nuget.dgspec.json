@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Q:\\ground\\csharp\\dice\\dice.csproj": {}
+    "F:\\My Documents\\vbprojects\\csharp\\dice\\dice.csproj": {}
   },
   "projects": {
-    "Q:\\ground\\csharp\\dice\\dice.csproj": {
+    "F:\\My Documents\\vbprojects\\csharp\\dice\\dice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Q:\\ground\\csharp\\dice\\dice.csproj",
+        "projectUniqueName": "F:\\My Documents\\vbprojects\\csharp\\dice\\dice.csproj",
         "projectName": "dice",
-        "projectPath": "Q:\\ground\\csharp\\dice\\dice.csproj",
+        "projectPath": "F:\\My Documents\\vbprojects\\csharp\\dice\\dice.csproj",
         "packagesPath": "C:\\Users\\Sayf\\.nuget\\packages\\",
-        "outputPath": "Q:\\ground\\csharp\\dice\\obj\\",
+        "outputPath": "F:\\My Documents\\vbprojects\\csharp\\dice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sayf\\AppData\\Roaming\\NuGet\\NuGet.Config",
