@@ -1,0 +1,15 @@
+Q:\ground\csharp\passgen\obj\Debug\net8.0\passgen.GeneratedMSBuildEditorConfig.editorconfig
+Q:\ground\csharp\passgen\obj\Debug\net8.0\passgen.AssemblyInfoInputs.cache
+Q:\ground\csharp\passgen\obj\Debug\net8.0\passgen.AssemblyInfo.cs
+Q:\ground\csharp\passgen\obj\Debug\net8.0\passgen.csproj.CoreCompileInputs.cache
+Q:\ground\csharp\passgen\obj\Debug\net8.0\passgen.sourcelink.json
+Q:\ground\csharp\passgen\bin\Debug\net8.0\passgen.exe
+Q:\ground\csharp\passgen\bin\Debug\net8.0\passgen.deps.json
+Q:\ground\csharp\passgen\bin\Debug\net8.0\passgen.runtimeconfig.json
+Q:\ground\csharp\passgen\bin\Debug\net8.0\passgen.dll
+Q:\ground\csharp\passgen\bin\Debug\net8.0\passgen.pdb
+Q:\ground\csharp\passgen\obj\Debug\net8.0\passgen.dll
+Q:\ground\csharp\passgen\obj\Debug\net8.0\refint\passgen.dll
+Q:\ground\csharp\passgen\obj\Debug\net8.0\passgen.pdb
+Q:\ground\csharp\passgen\obj\Debug\net8.0\passgen.genruntimeconfig.cache
+Q:\ground\csharp\passgen\obj\Debug\net8.0\ref\passgen.dll
