@@ -1,0 +1,15 @@
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ifexam.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ifexam.AssemblyInfoInputs.cache
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ifexam.AssemblyInfo.cs
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ifexam.csproj.CoreCompileInputs.cache
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ifexam.sourcelink.json
+F:\My Documents\vbprojects\csharp\ifexam\bin\Debug\net8.0\ifexam.exe
+F:\My Documents\vbprojects\csharp\ifexam\bin\Debug\net8.0\ifexam.deps.json
+F:\My Documents\vbprojects\csharp\ifexam\bin\Debug\net8.0\ifexam.runtimeconfig.json
+F:\My Documents\vbprojects\csharp\ifexam\bin\Debug\net8.0\ifexam.dll
+F:\My Documents\vbprojects\csharp\ifexam\bin\Debug\net8.0\ifexam.pdb
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ifexam.dll
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\refint\ifexam.dll
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ifexam.pdb
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ifexam.genruntimeconfig.cache
+F:\My Documents\vbprojects\csharp\ifexam\obj\Debug\net8.0\ref\ifexam.dll

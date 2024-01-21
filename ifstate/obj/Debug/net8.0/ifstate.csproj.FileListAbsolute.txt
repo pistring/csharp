@@ -1,0 +1,15 @@
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ifstate.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ifstate.AssemblyInfoInputs.cache
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ifstate.AssemblyInfo.cs
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ifstate.csproj.CoreCompileInputs.cache
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ifstate.sourcelink.json
+F:\My Documents\vbprojects\csharp\ifstate\bin\Debug\net8.0\ifstate.exe
+F:\My Documents\vbprojects\csharp\ifstate\bin\Debug\net8.0\ifstate.deps.json
+F:\My Documents\vbprojects\csharp\ifstate\bin\Debug\net8.0\ifstate.runtimeconfig.json
+F:\My Documents\vbprojects\csharp\ifstate\bin\Debug\net8.0\ifstate.dll
+F:\My Documents\vbprojects\csharp\ifstate\bin\Debug\net8.0\ifstate.pdb
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ifstate.dll
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\refint\ifstate.dll
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ifstate.pdb
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ifstate.genruntimeconfig.cache
+F:\My Documents\vbprojects\csharp\ifstate\obj\Debug\net8.0\ref\ifstate.dll

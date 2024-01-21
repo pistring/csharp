@@ -12,3 +12,18 @@ Q:\ground\csharp\dice\obj\Debug\net8.0\refint\dice.dll
 Q:\ground\csharp\dice\obj\Debug\net8.0\dice.pdb
 Q:\ground\csharp\dice\obj\Debug\net8.0\dice.genruntimeconfig.cache
 Q:\ground\csharp\dice\obj\Debug\net8.0\ref\dice.dll
+F:\My Documents\vbprojects\csharp\dice\bin\Debug\net8.0\dice.exe
+F:\My Documents\vbprojects\csharp\dice\bin\Debug\net8.0\dice.deps.json
+F:\My Documents\vbprojects\csharp\dice\bin\Debug\net8.0\dice.runtimeconfig.json
+F:\My Documents\vbprojects\csharp\dice\bin\Debug\net8.0\dice.dll
+F:\My Documents\vbprojects\csharp\dice\bin\Debug\net8.0\dice.pdb
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\dice.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\dice.AssemblyInfoInputs.cache
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\dice.AssemblyInfo.cs
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\dice.csproj.CoreCompileInputs.cache
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\dice.sourcelink.json
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\dice.dll
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\refint\dice.dll
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\dice.pdb
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\dice.genruntimeconfig.cache
+F:\My Documents\vbprojects\csharp\dice\obj\Debug\net8.0\ref\dice.dll
